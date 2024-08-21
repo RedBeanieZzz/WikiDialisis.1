@@ -4,11 +4,10 @@ WikiDialisis is a simple and easy to manage dialisys page that contains all the 
 It is focused on bringing precise information mixed with EASY navigation favoring senior citizens.
 Will be available only in argentina (for now...).
 
-| Here is the landing page for phones and a premodel of the first view |
+| Here's the Models of the Landing, Home and the First Option about Dialysis |
+  
 ![LandingPage](https://github.com/user-attachments/assets/e359dced-0cef-472f-9339-531edccc6fc2)
-
 ![HomePage](https://github.com/user-attachments/assets/6ccff04c-eae6-4bc6-89a1-d2150662f595)
-
 ![queEs](https://github.com/user-attachments/assets/6856f1be-932b-4698-9aa8-f3e2786df906)
 
 The Project consist in an informative web page that gives the information directely from patients and doctors to the user.
