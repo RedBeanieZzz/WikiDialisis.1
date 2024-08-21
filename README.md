@@ -5,8 +5,11 @@ It is focused on bringing precise information mixed with EASY navigation favorin
 Will be available only in argentina (for now...).
 
 | Here is the landing page for phones and a premodel of the first view |
+![LandingPage](https://github.com/user-attachments/assets/e359dced-0cef-472f-9339-531edccc6fc2)
 
-![wikidial page1](https://github.com/RedBeanieZzz/WikiDialisis/assets/104448460/1e941581-f68e-4bf8-9ad6-d7ed6e9264c3) ![wikidial page2](https://github.com/RedBeanieZzz/WikiDialisis/assets/104448460/4a7b2816-954e-4180-8e83-8bee3bccfb2b)
+![HomePage](https://github.com/user-attachments/assets/6ccff04c-eae6-4bc6-89a1-d2150662f595)
+
+![queEs](https://github.com/user-attachments/assets/6856f1be-932b-4698-9aa8-f3e2786df906)
 
 The Project consist in an informative web page that gives the information directely from patients and doctors to the user.
 With a blog for them to chat and give other opinions and tips to each other (like, how to manage dead times while in dialisys;
